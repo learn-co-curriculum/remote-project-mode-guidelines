@@ -1,0 +1,2 @@
+remote-project-mode-guidelines
+==============================
