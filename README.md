@@ -1,3 +1,8 @@
+---
+tags: ruby, project mode
+language: ruby
+---
+
 # Remote Web Development Project Mode Guideline
 
 ## Introduction and Objectives
