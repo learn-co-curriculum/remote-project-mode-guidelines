@@ -1,5 +1,5 @@
 ---
-tags: ruby, project mode
+tags: ruby, project mode, final project
 language: ruby
 ---
 
