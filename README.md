@@ -1,7 +1,4 @@
----
-tags: ruby, project mode, final project
-language: ruby
----
+
 
 # Remote Web Development Project Mode Guideline
 
