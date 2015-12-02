@@ -104,3 +104,5 @@ Don't use JS frameworks or big gems like:
 ## Resources
 * [ThoughtBot Playbook](http://thoughtbot.com/) - [ThoughtBot Playbook](http://playbook.thoughtbot.com/)
 * [The Twelve Factor App](http://12factor.net/) - [The Twelve Factor App](http://12factor.net/)
+
+<a href='https://learn.co/lessons/remote-project-mode-guidelines' data-visibility='hidden'>View this lesson on Learn.co</a>
