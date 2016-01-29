@@ -105,4 +105,4 @@ Don't use JS frameworks or big gems like:
 * [ThoughtBot Playbook](http://thoughtbot.com/) - [ThoughtBot Playbook](http://playbook.thoughtbot.com/)
 * [The Twelve Factor App](http://12factor.net/) - [The Twelve Factor App](http://12factor.net/)
 
-<a href='https://learn.co/lessons/remote-project-mode-guidelines' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/remote-project-mode-guidelines' title='Remote Web Development Project Mode Guideline'>Remote Web Development Project Mode Guideline</a> on Learn.co and start learning to code for free.</p>
