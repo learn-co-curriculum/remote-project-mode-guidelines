@@ -1,10 +1,8 @@
-
-
-# Remote Web Development Project Mode Guideline
+# Remote Full Web Development Portfolio Project
 
 ## Introduction and Objectives
 
-The last stage of the Flatiron semester are called 'project mode.' You'll be building real applications. The goal of this period is to expose you to actual problems that arise when building and teach you how to manage a big project. The goal of the projects is not to launch a massively popular social network or startup, but rather, just to learn.
+The last stage of the Flatiron School is called 'project mode.' You'll be building real applications. The goal of this period is to expose you to actual problems that arise when building and teach you how to manage a big project. The goal of the projects is not to launch a massively popular social network or startup, but rather, just to learn.
 
 >Education is an admirable thing, but it is well to remember from time to time that nothing that is worth knowing can be taught.
 >
@@ -14,23 +12,22 @@ While we love teaching you all the things about programming, in the end, we're t
 
 So make sure you are keeping your eye on learning, a constant balance between building and shipping and learning.
 
-During project mode, our expectation of you is that you ship at least 2 small projects.
-
 **TL;DR**
 * Expose you to actual problems
 * Learn to manage software projects
 * Goal is to learn, not build a company
 * Learn through building things
-* Ship at least two small projects
 
 # Picking a Project
 
 Building something usable is tremendously hard. There are a few things we've learned over the years about building.
 
-1. Everything is harder than it sounds. You'd be surprised how quickly complexity grows. Be humble about your estimates and somewhat realistic about what you can accomplish.
+1. Everything is harder than it sounds. You'd be surprised how quickly complexity grows. Be humble about your estimates and somewhat realistic about what you can accomplish. Remember, you can always make your app do *more* down the road. Think small.
 2. Keep it simple! Seriously, embrace constraints. Make your project as small as possible while still capable of delivering the majority of the value. Maybe you don't need a User registration system that supports 10 external OAuth providers, maybe you don't need to allow them to reset their passwords (do you even have users complaining about this?), maybe exporting to PDF is enough and you don't need to support epub and kindle. Just keep it simple. 1 version of something is more than enough. Think Minimum Loveable Project.
 
-Beginners have a tendency to choose very hard projects. Pick a project that you can imagine having a somewhat working version of after a day. Keep it simple and small.
+Beginners have a tendency to choose very hard projects. Pick a project that you can imagine having a somewhat working version of *after a day*. Keep it simple and small.
+
+![](http://curriculum-content.s3.amazonaws.com/web-development/project-mode-guidelines/how-to-buil-an-mvp.png)
 
 **Check out this list of [project ideas]()**
 
