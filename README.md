@@ -83,36 +83,41 @@ Once we communicate the final project, you'll be off to the races!
 
 You will be operating as a small remote team. Because of that, communication and organization are absolutely key!
 
-### Trello Setup
+### GitHub Setup
 
-All students will be using Trello to manage their team, and the project. Get familar with Trello, you'll be spending a lot of time in it:
-
-  1. Install the [Scrum For Trello](http://scrumfortrello.com/) plugin. This will allow for a super easy way to do hours estimation.
-  2. Create a new Board, and share your board with everyone. In this board create three different lists: "To Do", "Doing", "Done".
-
-### Initial Project Setup
+All students will be using GitHub to manage their team, and the project. Get familiar with Github Issues, you'll be spending a lot of time in it.
 
 There are few steps that are blocking any work at all. Let's get those out of the way as a team.
 
   1. Create the Github Repo on someone's account, add everyone else as collaborators
-  2. Run `rails new` to create your new project, push that to GitHub.
+  2. Create a Slack channel for your group.
+  3. Run `rails new` to create your new project, push that to GitHub.
+  4. Everyone should install [ZenHub](https://www.zenhub.io/). This will allow a much better and easier view for your github issues.
 
 ### Initial Card Dump
 
-Initially, let's get the easy features out of your head, and onto Trello. Then we'll be able to divide and conquer them.
+Initially, let's get the easy features out of your head, and into GitHub Issues. Then we'll be able to divide and conquer them.
 
-  1. Meet with your team. 
+  1. Meet with your team. Start dumping all of the things you need to do into issues on GitHub Issues. Remember we are focusing on the minimum loveable product. Always keep asking yourself if the feature you are putting in as a card is *required* for the user.
+  2. Switch over to the "board" view provided by ZenHub by clicking on the boards tab. You should be presented with a handful of boards, or pipelines. Go ahead and delete the "Backlog" board. All of your issues you just made are in the "New Issues" board. Let's move them to the "To Do".
+  2. Go through all of those items and prioritize them. There may be ones that block others, bring those to the front. Focus initially on anything that involves models. You may want to do some of the initial model work right now with your entire group.
+
+### Working and Reporting
+
+The goal is to be communicating with your team every single day. In addition that, you'll be posting **daily** video 
 
 
-  
+  1. Let's get working!! Each person should grab a card, move it to the "In Progress" board and assign it to themselves. Now get working.
+  2. **Every day** upload a screencast video of your most recent work on all of the issues that in the "In Progress" pipeline that are assigned to you. Even if all you did was fix some simple bugs or make some great research progress, upload a video!
+
+##### Some Tips
 
 1. Iterate! Stay fast and small. Build things in small parts. You should be able to launch a new feature every day because you build in the smallest possible unit and are constantly driving toward deploying a new piece of code. Don't pile up requirements, look for shortcuts, look for ways of having a 'good enough' version of the feature and not all the bells and whistles.
-3. Don't get bogged down by complexity. Focus on the the smallest unit of work, and build up from there. Don't spend time planning every detail of your project. Get an idea of what you want to build and start. You shouldn't find yourself designing a schema with a dozen tables. You also shouldn't find yourself mocking up all the pages of the app before you've written a line of code.
-4. Deploy! You should deploy something on the first day, and every day after that.
+3. Don't get bogged down by complexity. Focus on the smallest unit of work, and build up from there. Don't spend time planning every detail of your project. Get an idea of what you want to build and start. You shouldn't find yourself designing a schema with a dozen tables. You also shouldn't find yourself mocking up all the pages of the app before you've written a line of code.
 
-#####Frameworks and Huge gems
+##### Huge gems
 
-Don't use JS frameworks or big gems like:
+Don't use big gems like:
 * ActiveAdmin
 * RefineryCMS
 
@@ -121,20 +126,10 @@ Don't use JS frameworks or big gems like:
 * Launch a new feature every day
 * Make it good enough, not perfect
 * Make < 5 minute video every day to demonstrate a feature you built that day
-* Deploy on day one
-
-## Using Trello For Project Management
-
-### Setup
-
-  1. Create 
 
 # Working with Your TAs and Classmates
 
-1. Work with one TA. Your project will get complex, so you'll be working with the same TA until you're finished. This will make the TAs more familiar with your project, and a lot more helpful.
-2. Don't let yourself get stuck. Your TAs are here to help you. Use them when you get stuck. You want to make consistent progress. Don't spend the day stuck on something.
-3. There will be a consistent, daily schedule of times when you and your TA will be able to work with one another for uninterrupted blocks of time.
-4. Reach out to your classmates for help! Be supportive or one another.
+  * You'll have a weekly check in with your instructor to help with prioritization and track progress.
 
 **TL;DR**
 * Work with one TA
