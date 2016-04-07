@@ -127,7 +127,7 @@ Don't use big gems like:
 * Make it good enough, not perfect
 * Make < 5 minute video every day to demonstrate a feature you built that day
 
-# Working with Your TAs and Classmates
+## Working with Your TAs and Classmates
 
   * You'll have a weekly check in with your instructor to help with prioritization and track progress.
 
@@ -135,6 +135,11 @@ Don't use big gems like:
 * Work with one TA
 * Don't get stuck
 * Use your TA
+
+## Demo Days and Code Review
+
+  * We will be hosting a demo day every week. A few groups will be randomly selected to present what they are working on to all of the online Flatiron students!
+  * As you near the end of your project, your project will be submitted to another group for code review. This means they will go through your code, point out possible problems and areas for improvement and submit it back to you in the form of a pull request similar to [this](https://github.com/flatiron-school/scheduler/pull/14/files). 
 
 ## Resources
 * [ThoughtBot Playbook](http://thoughtbot.com/) - [ThoughtBot Playbook](http://playbook.thoughtbot.com/)
