@@ -109,11 +109,12 @@ The goal is to be communicating with your team every single day. In addition tha
 
   1. Let's get working!! Each person should grab a card, move it to the "In Progress" board and assign it to themselves. Now get working.
   2. **Every day** upload a screencast video of your most recent work on all of the issues that in the "In Progress" pipeline that are assigned to you. Even if all you did was fix some simple bugs or make some great research progress, upload a video!
+  3. Make a slack channel for your team and invite @aviflombaum and @joe into it and you can post progress updates there and ask us questions and chat with your team.
 
 ##### Some Tips
 
 1. Iterate! Stay fast and small. Build things in small parts. You should be able to launch a new feature every day because you build in the smallest possible unit and are constantly driving toward deploying a new piece of code. Don't pile up requirements, look for shortcuts, look for ways of having a 'good enough' version of the feature and not all the bells and whistles.
-3. Don't get bogged down by complexity. Focus on the smallest unit of work, and build up from there. Don't spend time planning every detail of your project. Get an idea of what you want to build and start. You shouldn't find yourself designing a schema with a dozen tables. You also shouldn't find yourself mocking up all the pages of the app before you've written a line of code.
+2. Don't get bogged down by complexity. Focus on the smallest unit of work, and build up from there. Don't spend time planning every detail of your project. Get an idea of what you want to build and start. You shouldn't find yourself designing a schema with a dozen tables. You also shouldn't find yourself mocking up all the pages of the app before you've written a line of code.
 
 ##### Huge gems
 
